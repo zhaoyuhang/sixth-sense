@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WUW01">
+</Property><Property Name="Solution File" Value="C:\Users\biohazard\Dropbox\wuw\code\WUW01.sln">
+</Property><Property Name="User Options File" Value="C:\Users\biohazard\Dropbox\wuw\code\WUW01.suo">
+</Property><Property Name="Date" Value="Wednesday, November 30, 2011">
+</Property><Property Name="Time" Value="1:05 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WUW01.sln" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WUW01.suo" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01.suo">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\WUW01.csproj" Description="Project file successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\WUW01.csproj">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\classes\Category.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\classes\Category.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\classes\DollarRecognizer.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\classes\DollarRecognizer.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\classes\Gesture.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\classes\Gesture.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\classes\NBestList.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\classes\NBestList.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\classes\PointR.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\classes\PointR.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\classes\ProgressEvent.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\classes\ProgressEvent.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\classes\RectangleR.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\classes\RectangleR.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\classes\SizeR.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\classes\SizeR.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\classes\Utils.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\classes\Utils.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\ViewForm.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\ViewForm.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\WUW.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\WUW.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\WUW.Designer.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\WUW.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\Program.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\Program.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\Properties\Settings.settings" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\ViewForm.resx" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\ViewForm.resx">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\WUW.resx" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\WUW.resx">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\Properties\Resources.resx" Description="File successfully backed up as C:\Users\biohazard\Dropbox\wuw\code\Backup\WUW01\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\WUW01.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WUW01" Source="WUW01\WUW01.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WUW01.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WUW01.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WUW01" Source="WUW01\WUW01.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

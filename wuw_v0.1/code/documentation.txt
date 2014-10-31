@@ -1,0 +1,64 @@
+
++++++++++++++++++++++++++++++++++++++++++++++++
+
+WUW Wear Ur World
+Pranav Mistry (pranav@mit.edu)
+
+MIT Media Lab 2008
+Fluid Interfaces
+
+WUW Version 7
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+User Gestures:
+
+Loop (cursive e) => Draw Demo
+Magnifying Glass (thumbtack) => Map
+Triangle => Photo
+Circle => Clock
+Star (5 point) => Weather
+Hands together => Home Menu
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+User Controls:
+
+Draw:
+------------------------------------------------
+With the right thumb hidden, the right hand pointer finger can draw.
+
+
+Map:
+------------------------------------------------
+When the user hides the right hand thumb, the right hand pointer can pan.
+
+When the user spreads and combines the pointer fingers, the map will zoom out and in respectively.
+
+
+Gesture:
+------------------------------------------------
+See earlier section, User Gestures
+
+
+Photo:
+------------------------------------------------
+Make a rectangle with your pointer fingers and thumbs.
+The photo will be taken in 3 seconds.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+Keyboard Shortcuts:
+------------------------------------------------
+M Map
+D Draw
+P Photo
+W Weather
+C Clock
+O objects
+
+G Gesture
+H Home Menu
