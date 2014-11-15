@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace WUW01
+namespace WUW01//命名空间
 {
 
 	public class Gesture : IComparable
